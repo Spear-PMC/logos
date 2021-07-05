@@ -8,3 +8,7 @@ Images are created in SVG form then converted to other forms.
 [<img src="./svg/brm5.svg" alt="BRM5 logo - SVG" width="100" height="100">
 <br>
 **BRM5**](./svg/brm5.svg)
+<br><br>
+[<img src="./svg/hub.svg" alt="HUB logo - SVG" width="100" height="100">
+<br>
+**HUB**](./svg/hub.svg)
