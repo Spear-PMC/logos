@@ -6,21 +6,21 @@
 			<stop offset="100%" style="stop-color:rgb(35,35,35);stop-opacity:1"/>
 		</linearGradient>
 		<!-- SPEARS -->
-		<linearGradient id="spear1" x1="100%" y1="100%" x2="0%" y2="0%">
-			<stop offset="30%" stop-color="rgb(241,252,153)"/>
-			<stop offset="70%" stop-color="rgb(214,148,48)"/>
+		<linearGradient id="spear1" x1="0%" y1="0%" x2="100%" y2="0%">
+			<stop offset="30%" stop-color="rgb(42,64,144)"/>
+			<stop offset="70%" stop-color="rgb(26,104,178)"/>
 		</linearGradient>
-		<linearGradient id="spear2" x1="0%" y1="0%" x2="100%" y2="100%">
-			<stop offset="30%" stop-color="rgb(241,252,153)"/>
-			<stop offset="70" stop-color="rgb(214,148,48)"/>
+		<linearGradient id="spear2" x1="0%" y1="0%" x2="100%" y2="0%">
+			<stop offset="10%" stop-color="rgb(19,125,197)"/>
+			<stop offset="30%" stop-color="rgb(5,156,216)"/>
 		</linearGradient>
-		<radialGradient id="spear3">
-			<stop offset="60%" stop-color="rgb(241,252,153)"/>
-			<stop offset="95%" stop-color="rgb(214,148,48)"/>
-		</radialGradient>
+		<linearGradient id="spear3" x1="0%" y1="0" x2="100%" y2="0%">
+			<stop offset="30%" stop-color="rgb(42,64,144)"/>
+			<stop offset="70%" stop-color="rgb(5,156,216)"/>
+		</linearGradient>
 	</defs>
 	<rect fill="url(#background)" width="600" height="600"/>
-	<!-- <image x="0" y="0" width="600" height="600" href="https://spearpmc.netlify.app/brm5/images/logo.png"></image> -->
+	<!-- <image x="0" y="0" width="600" height="600" href="https://spearpmc.netlify.app/neo/images/logo.png"></image> -->
 	<g stroke-width="1px" transform="translate(110 118)">
 		<path d="M0 0 L50 80 L78 92 L158 174 L174 158 L92 75 L81 49 L0 0 Z" fill="url(#spear1)" />
 		<path d="M200 215 L348 362 L362 348 L215 200 Z" fill="url(#spear2)" />
