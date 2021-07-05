@@ -5,4 +5,6 @@ Images are created in SVG form then converted to other forms.
 <hr>
 
 ## SVG Images:<br>
-[<img src="./svg/brm5.svg" alt="BRM5 logo - SVG" width="100" height="100">](./svg/brm5.svg)
+[<img src="./svg/brm5.svg" alt="BRM5 logo - SVG" width="100" height="100">
+<br>
+**BRM5**](./svg/brm5.svg)
