@@ -1,6 +1,6 @@
 # Spear PMC Logos<br>
 All Spear PMC in PNG, JPG, and SVG forms.<br>
-Images are created in SVG form then converted to other forms. Images are created using [base.svg](./base.svg) as a template image. Gradients are modified accordingly. 
+Images are created in SVG form then converted to other forms. Images are created using [base.svg](./base.svg) as a template image. Gradients are modified accordingly.
 
 <hr>
 

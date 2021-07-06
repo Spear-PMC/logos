@@ -7,17 +7,17 @@
 			<stop offset="100%" style="stop-color:rgb(35,35,35);stop-opacity:1"/>
 		</linearGradient>
 		<!-- SPEARS -->
-      <!-- spear1 is the top left part of the spear going from the top left to the bottom right -->
+		<!-- spear1 is the top left part of the spear going from the top left to the bottom right -->
 		<linearGradient id="spear1" x1="100%" y1="100%" x2="0%" y2="0%">
 			<stop offset="30%" stop-color="rgb(50,50,50)"/>
 			<stop offset="70%" stop-color="rgb(150,150,150)"/>
 		</linearGradient>
-      <!-- spear2 is the bottom right part of the spear going from the top left to the bottom right -->
+		<!-- spear2 is the bottom right part of the spear going from the top left to the bottom right -->
 		<linearGradient id="spear2" x1="0%" y1="0%" x2="100%" y2="100%">
 			<stop offset="30%" stop-color="rgb(50,50,50)"/>
 			<stop offset="70" stop-color="rgb(150,150,150)"/>
 		</linearGradient>
-      <!-- spear3 is the spear going from the bottom left to the top right -->
+		<!-- spear3 is the spear going from the bottom left to the top right -->
 		<radialGradient id="spear3">
 			<stop offset="60%" stop-color="rgb(50,50,50)"/>
 			<stop offset="95%" stop-color="rgb(150,150,150)"/>
