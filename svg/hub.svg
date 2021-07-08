@@ -5,25 +5,11 @@
 			<stop offset="70%" style="stop-color:rgb(25,25,25);stop-opacity:1"/>
 			<stop offset="100%" style="stop-color:rgb(35,35,35);stop-opacity:1"/>
 		</linearGradient>
-		<!-- SPEARS -->
-		<linearGradient id="spear1" x1="100%" y1="100%" x2="0%" y2="0%">
-			<stop offset="30%" stop-color="rgb(227,228,229)"/>
-			<stop offset="70%" stop-color="rgb(117,117,117)"/>
+		<linearGradient id="spear" x1="0%" y1="0%" x2="100%" y2="0%">
+			<stop stop-color="rgb(117,117,117)" offset="30%"/>
+			<stop stop-color="rgb(227,228,229)" offset="70%"/>
 		</linearGradient>
-		<linearGradient id="spear2" x1="0%" y1="0%" x2="100%" y2="100%">
-			<stop offset="30%" stop-color="rgb(227,228,229)"/>
-			<stop offset="70" stop-color="rgb(117,117,117)"/>
-		</linearGradient>
-		<radialGradient id="spear3">
-			<stop offset="60%" stop-color="rgb(227,228,229)"/>
-			<stop offset="95%" stop-color="rgb(117,117,117)"/>
-		</radialGradient>
 	</defs>
 	<rect fill="url(#background)" width="600" height="600"/>
-	<!-- <image x="0" y="0" width="600" height="600" href="https://spearpmc.netlify.app/resources/hub.png"></image> -->
-	<g stroke-width="1px" transform="translate(110 118)">
-		<path d="M0 0 L50 80 L78 92 L158 174 L174 158 L92 75 L81 49 L0 0 Z" fill="url(#spear1)" />
-		<path d="M200 215 L348 362 L362 348 L215 200 Z" fill="url(#spear2)" />
-		<path d="M370 0 L294 46 L280 75 L7 349 L22 363 L294 93 L322 80 Z" fill="url(#spear3)" />
-	</g>
+	<path fill="url(#spear)" transform="translate(110 118)" d="M0 0 L50 80 L78 92 L158 174 L174 158 L92 75 L81 49 L0 0 Z M200 215 L348 362 L362 348 L215 200 Z M370 0 L294 46 L280 75 L7 349 L22 363 L294 93 L322 80 Z" />
 </svg>
