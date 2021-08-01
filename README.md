@@ -16,3 +16,18 @@ Images are created in SVG form then converted to other forms. Images are created
 [<img src="./svg/neo.svg" alt="NEO logo - SVG" width="100" height="100">
 <br>
 **NEO**](./svg/neo.svg)
+
+<hr>
+
+## PNG Images:<br>
+[<img src="./png/brm5.png" alt="BRM5 logo - SVG" width="100" height="100">
+<br>
+**BRM5**](./png/brm5.png)
+<br><br>
+[<img src="./svg/hub.svg" alt="HUB logo - SVG" width="100" height="100">
+<br>
+**HUB**](./png/hub.png)
+<br><br>
+[<img src="./svg/neo.svg" alt="NEO logo - SVG" width="100" height="100">
+<br>
+**NEO**](./png/neo.png)
