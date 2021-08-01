@@ -6,8 +6,8 @@
 			<stop offset="100%" style="stop-color:rgb(35,35,35);stop-opacity:1"/>
 		</linearGradient>
 		<radialGradient id="spear" x1="0%" y1="0%" x2="100%" y2="0%">
-			<stop stop-color="rgb(227,228,229)" offset="40%"/>
-			<stop stop-color="rgb(117,117,117)" offset="95%"/>
+			<stop stop-color="rgb(227,228,229)" offset="35%"/>
+			<stop stop-color="rgb(117,117,117)" offset="100%"/>
 		</radialGradient>
 	</defs>
 	<rect fill="url(#background)" width="600" height="600"/>
