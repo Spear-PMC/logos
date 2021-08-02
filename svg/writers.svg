@@ -6,10 +6,22 @@
 			<stop offset="100%" style="stop-color:rgb(35,35,35);stop-opacity:1"/>
 		</linearGradient>
 		<radialGradient id="spear" x1="0%" y1="0%" x2="100%" y2="0%">
-			<stop stop-color="#ff00ea" offset="35%"/>
-			<stop stop-color="#a31b98" offset="100%"/>
+			<stop stop-color="#ff52b7" offset="35%"/>
+			<stop stop-color="#f117a9" offset="100%"/>
 		</radialGradient>
+		<filter id="edgeBlur" x="0" y="0">
+			<feGaussianBlur in="SourceGraphic" stdDeviation="10" />
+		</filter>
 	</defs>
 	<rect fill="url(#background)" width="600" height="600"/>
-	<path fill="url(#spear)" transform="translate(110 118)" d="M0 0 L50 80 L78 92 L158 174 L174 158 L92 75 L81 49 L0 0 Z M200 215 L348 362 L362 348 L215 200 Z M370 0 L294 46 L280 75 L7 349 L22 363 L294 93 L322 80 Z" />
+	<path fill="url(#spear)" filter="url(#edgeBlur)" transform="translate(110 118)"
+		d="M0 0 L50 80 L78 92 L158 174 L174 158 L92 75 L81 49 L0 0 Z 
+			M200 215 L348 362 L362 348 L215 200 Z 
+			M370 0 L294 46 L280 75 L7 349 L22 363 L294 93 L322 80 Z"
+	/>
+	<path fill="url(#spear)" transform="translate(110 118)" 
+		d="M0 0 L50 80 L78 92 L158 174 L174 158 L92 75 L81 49 L0 0 Z 
+			M200 215 L348 362 L362 348 L215 200 Z 
+			M370 0 L294 46 L280 75 L7 349 L22 363 L294 93 L322 80 Z"
+	/>
 </svg>

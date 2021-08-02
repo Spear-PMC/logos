@@ -16,6 +16,10 @@ Images are created in SVG form then converted to other forms. Images are created
 [<img src="./svg/neo.svg" alt="NEO logo - SVG" width="100" height="100">
 <br>
 **NEO**](./svg/neo.svg)
+<br><br>
+[<img src="./svg/writers.svg" alt="writers logo - SVG" width="100" height="100">
+<br>
+**Writers Division**](./svg/writers.svg)
 
 <hr>
 
@@ -31,6 +35,10 @@ Images are created in SVG form then converted to other forms. Images are created
 [<img src="./svg/neo.svg" alt="NEO logo - PNG" width="100" height="100">
 <br>
 **NEO**](./png/neo.png)
+<br><br>
+[<img src="./svg/writers.svg" alt="writers logo - PNG" width="100" height="100">
+<br>
+**Writers Division**](./png/writers.png)
 
 <hr>
 
@@ -46,3 +54,7 @@ Images are created in SVG form then converted to other forms. Images are created
 [<img src="./jpg/neo.jpg" alt="NEO logo - JPG" width="100" height="100">
 <br>
 **NEO**](./jpg/neo.jpg)
+<br><br>
+[<img src="./jpg/writers.jpg" alt="writers logo - JPG" width="100" height="100">
+<br>
+**Writers Division**](./jpg/writers.jpg)
