@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" preserveAspectRatio="xMidYMid meet" width="600px" height="600px">
+	<defs>
+		<linearGradient id="background" x1="0%" y1="100%" x2="100%" y2="0%">
+			<stop offset="0%" style="stop-color:rgb(5,5,5);stop-opacity:1"/>
+			<stop offset="70%" style="stop-color:rgb(25,25,25);stop-opacity:1"/>
+			<stop offset="100%" style="stop-color:rgb(35,35,35);stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="spear1" x1="0%" y1="0%" x2="100%" y2="100%">
+			<stop stop-color="rgb(255,255,255)" offset="10%"/>
+			<stop stop-color="rgb(255,0,0)" offset="10%"/>
+			<stop stop-color="rgb(255,0,0)" offset="20%"/>
+         <stop stop-color="rgb(255,255,255)" offset="20%"/>
+         <stop stop-color="rgb(255,255,255)" offset="30%"/>
+			<stop stop-color="rgb(255,0,0)" offset="30%"/>
+			<stop stop-color="rgb(255,0,0)" offset="40%"/>
+         <stop stop-color="rgb(255,255,255)" offset="40%"/>
+         <stop stop-color="rgb(255,255,255)" offset="50%"/>
+			<stop stop-color="rgb(255,0,0)" offset="50%"/>
+			<stop stop-color="rgb(255,0,0)" offset="60%"/>
+         <stop stop-color="rgb(255,255,255)" offset="60%"/>
+         <stop stop-color="rgb(255,255,255)" offset="70%"/>
+			<stop stop-color="rgb(255,0,0)" offset="70%"/>
+			<stop stop-color="rgb(255,0,0)" offset="80%"/>
+         <stop stop-color="rgb(255,255,255)" offset="80%"/>
+         <stop stop-color="rgb(255,255,255)" offset="90%"/>
+			<stop stop-color="rgb(255,0,0)" offset="90%"/>
+		</linearGradient>
+      <linearGradient id="spear2" x1="0%" y1="100%" x2="100%" y2="0%">
+         <stop stop-color="rgb(255,255,255)" offset="10%"/>
+			<stop stop-color="rgb(255,0,0)" offset="10%"/>
+			<stop stop-color="rgb(255,0,0)" offset="20%"/>
+         <stop stop-color="rgb(255,255,255)" offset="20%"/>
+         <stop stop-color="rgb(255,255,255)" offset="30%"/>
+			<stop stop-color="rgb(255,0,0)" offset="30%"/>
+			<stop stop-color="rgb(255,0,0)" offset="40%"/>
+         <stop stop-color="rgb(255,255,255)" offset="40%"/>
+         <stop stop-color="rgb(255,255,255)" offset="50%"/>
+			<stop stop-color="rgb(255,0,0)" offset="50%"/>
+			<stop stop-color="rgb(255,0,0)" offset="60%"/>
+         <stop stop-color="rgb(255,255,255)" offset="60%"/>
+         <stop stop-color="rgb(255,255,255)" offset="70%"/>
+			<stop stop-color="rgb(255,0,0)" offset="70%"/>
+			<stop stop-color="rgb(255,0,0)" offset="80%"/>
+         <stop stop-color="rgb(255,255,255)" offset="80%"/>
+         <stop stop-color="rgb(255,255,255)" offset="90%"/>
+			<stop stop-color="rgb(255,0,0)" offset="90%"/>
+		</linearGradient>
+      <filter id="edgeBlur" x="0" y="0">
+			<feGaussianBlur in="SourceGraphic" stdDeviation="10" />
+		</filter>
+	</defs>
+	<rect fill="url(#background)" width="600" height="600"/>
+	<path fill="url(#spear1)" filter="url(#edgeBlur)" transform="translate(110 118)" d="M0 0 L50 80 L78 92 L158 174 L174 158 L92 75 L81 49 L0 0 Z M200 215 L348 362 L362 348 L215 200 Z" />
+	<path fill="url(#spear1)" transform="translate(110 118)" d="M0 0 L50 80 L78 92 L158 174 L174 158 L92 75 L81 49 L0 0 Z M200 215 L348 362 L362 348 L215 200 Z" />
+	<path fill="url(#spear2)" filter="url(#edgeBlur)" transform="translate(110 118)" d="M370 0 L294 46 L280 75 L7 349 L22 363 L294 93 L322 80 Z" />
+	<path fill="url(#spear2)" transform="translate(110 118)" d="M370 0 L294 46 L280 75 L7 349 L22 363 L294 93 L322 80 Z" />
+</svg>
