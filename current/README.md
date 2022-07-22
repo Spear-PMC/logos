@@ -1,5 +1,5 @@
 # Spear Contracting Group (SCG) Logos<br>
-All SCG logos in PNG and SVG forms.<br>
+All SCG logos in PNG, JPG, and SVG forms.<br>
 Images are created in SVG form then converted to other forms.
 
 <hr>
@@ -26,8 +26,17 @@ Images are created in SVG form then converted to other forms.
 
 <hr>
 
+## JPG Images:<br>
+[<img src="./jpg/seal.jpg" alt="SCG seal - JPG" width="100" height="100">
+<br>
+**Seal**](./jpg/seal.jpg)
+<br><br>
+[<img src="./jpg/logo.jpg" alt="SCG logo - JPG" width="100" height="100">
+<br>
+**Logo**](./jpg/logo.jpg)
+
 # Credits:
-**(using Discord names)**<br><br>
-Drafting: Cid#6425<br>
-Creation: CannonHead#3112<br>
-Final Edits: sirius#9892<br>
+(using Discord names)
+Drafting: Cid#6425
+Creation: CannonHead#3112
+Final Edits: sirius#9892
